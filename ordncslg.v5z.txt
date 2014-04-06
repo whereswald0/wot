@@ -1,0 +1,27 @@
+﻿Added libraries
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   README.md
+#	new file:   libraries/SHT1x/CHANGES.txt
+#	new file:   libraries/SHT1x/DISTRIBUTION
+#	new file:   libraries/SHT1x/README.markdown
+#	new file:   libraries/SHT1x/SHT1x.cpp
+#	new file:   libraries/SHT1x/SHT1x.h
+#	new file:   libraries/SHT1x/examples/ReadSHT1xValues/ReadSHT1xValues.pde
+#	new file:   libraries/SHT1x/keywords.txt
+#	new file:   libraries/WiFlyHQ
+#	new file:   wifly_factoryreset/wifly_factoryreset.ino
+#	new file:   wifly_wifi_join/wifly_wifi_join.ino
+#
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#   (commit or discard the untracked or modified content in submodules)
+#
+#	modified:   libraries/WiFlyHQ (modified content)
+#
+
